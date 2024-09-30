@@ -16,7 +16,11 @@ of friends, you can view and 'favorite' the profiles of friends, and you can fil
 like to view the profiles and posts of 'favorited' users, you can do so on the Bruingram Favorites page! To navigate between the pages of Bruingram, you can use the navigation bar on
 the left! When you are all done with your Bruingram session, you can logout using 'Logout' on the navigation bar!
 
-To deploy Bruingram ...
+To deploy Bruingram 
+Change into the 'better-instagram' directory.
+run 'npm install'
+run 'npm run dev'
+A link to a local hosting of our 'Bruingram' should generate!
 
 
 Contributors
